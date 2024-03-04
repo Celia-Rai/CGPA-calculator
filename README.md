@@ -1,1 +1,1 @@
-# CGPA-calculator
+# CGPA-calculator using Html, CSS amd JavaScript.
